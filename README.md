@@ -33,4 +33,5 @@ Example:
 
     docker run imageName
 
+Using API security key in Header with name X-Authentication-Token so that it will not be visible on GET URL. 
 
